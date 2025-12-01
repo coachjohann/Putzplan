@@ -31,7 +31,7 @@ const plans = [
 ];
 
 // Startdatum - Putzen beginnt in dieser Woche
-const START_DATE = new Date("2025-11-24");
+const START_DATE = new Date("2025-11-17");
 
 // Tag-Zuordnung: LG 7 = Montag, LG 4 = Dienstag, LG 1 = Mittwoch, LG 5 = Donnerstag
 const dayToLG = {
